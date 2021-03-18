@@ -1,7 +1,7 @@
 module.exports = {
   "title": "yangfengyi",
-  "description": "yangfengyi",
-  "dest": "docs",
+  "description": "yangfengyi`blog",
+  "dest": "public",
   "head": [
     [
       "link",
@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/yangfengyis",
+            "link": "https://github.com/recoluan",
             "icon": "reco-github"
           }
         ]
@@ -76,8 +76,8 @@ module.exports = {
       {
         "title": "午后南杂",
         "desc": "Enjoy when you can, and endure when you must.",
-        "email": "346540974@qq.com",
-        "link": "https://www.yangfengyi.lifes"
+        "email": "1156743527@qq.com",
+        "link": "https://www.recoluan.com"
       },
       {
         "title": "vuepress-theme-reco",
@@ -86,14 +86,14 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/hero.jpg",
+    "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "yangfengyi",
-    "authorAvatar": "/hero.jpg",
+    "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2021"
+    "startYear": "2017"
   },
   "markdown": {
     "lineNumbers": true
